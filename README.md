@@ -39,10 +39,6 @@ git clone https://github.com/yourusername/xkcd-comic-viewer.git
 - Click the "Random Comic" button to explore a random XKCD comic.
 - Hover over the comic to view its alt text for additional humor and context.
 
-## Screenshots
-
-![Screenshot](screenshot.png)
-
 ## Acknowledgments
 
 - XKCD comics are created by Randall Munroe and are available at [https://xkcd.com/](https://xkcd.com/).
@@ -51,11 +47,3 @@ git clone https://github.com/yourusername/xkcd-comic-viewer.git
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-If you would like to contribute to this project, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/xkcd-comic-viewer).
-
----
-
-Enjoy exploring XKCD comics with this web app! If you have any questions or feedback, feel free to contact us at [your@email.com](mailto:your@email.com).
